@@ -3,7 +3,7 @@ Tinkering with data compression and encryption
 
 Cryptor is a fast (as in gzip fast) arithmetic coder with similar or better level of compression to that tool.
 
-The arithmetic coder part is a C# implementation of the coder described in Barry Stratford's 2005 paper (see included pdfs and his reference code in separate folder)
+The arithmetic coder part is a C# implementation of the coder described in Barney Stratford's 2005 paper (see included pdfs and his reference code in separate folder)
 
 Cryptor has 2 levels of compression:
 1. A simple, very fast, adaptive model (relatively low compression -- compressing catenated calgary corpus to ~55%, and enwiki8 to ~62%)
